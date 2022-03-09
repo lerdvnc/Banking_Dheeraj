@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\work\torry harris\thbs\training\BankingManagement\Backend\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+897014713.index
+2816583153.index
+3957085282.index
+3511302418.index
+2675120444.index
+2812991448.index
